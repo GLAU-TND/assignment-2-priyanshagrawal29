@@ -30,7 +30,7 @@ Steps to attempt this assignment:
 
 You can specify your own packages if require.
 
-Please feel free to reach out to me in case of any queries. 
+Please feel free to reach out to me in the case of any queries. 
 
 *\*ctrl+c &  ctrl+v from assignment 1* 
   
